@@ -1,0 +1,20 @@
+[
+  {
+    "id": 0,
+    "quote": "Learn from yesterday, live for today, hope for tomorrow. The important thing is not to stop questioning",
+    "author": "Albert Einstein",
+    "rational": "As agile organizations, teams and team members, we must constantly question what could be better in order to continually improve."
+  },
+  {
+    "id": 1,
+    "quote": "Perfection is not attainable, but if we chase perfection we can catch excellence.",
+    "author": "Vince Lombardi",
+    "rational": "Perfection is a fallacy that leads to over planning, procrastination and failure to ship; agile is about focusing on delivering the best thing possible in a set time period."
+  },
+  {
+    "id": 2,
+    "quote": "Unless someone like you cares a whole awful lot, nothing is going to get better. It’s not.",
+    "author": "Dr. Seuss",
+    "rational": "Agile practices focus on giving teams and individuals ownership of their work and accountability to the team and organization, so that you can care to make things better."
+  }
+]
